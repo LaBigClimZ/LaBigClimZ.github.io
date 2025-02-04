@@ -14,7 +14,7 @@
             justify-content: center; /* Centre les éléments horizontalement */
         }
         nav ul li {
-            margin: 0 10px; /* Ajoute un espacement de 10px entre chaque élément du menu */
+            margin: 0 1%; /* Ajoute un espacement de 10px entre chaque élément du menu */
         }
         nav ul li a { /* Styles des liens de navigation */
             color: white; /* Définit la couleur du texte en blanc */
